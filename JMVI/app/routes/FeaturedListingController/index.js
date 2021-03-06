@@ -1,0 +1,2 @@
+import FeaturedListingController from "./FeaturedListingController"
+export default FeaturedListingController

@@ -1,0 +1,2 @@
+import MortgageCalculatorViewController from "./MortgageCalculatorViewController"
+export default MortgageCalculatorViewController

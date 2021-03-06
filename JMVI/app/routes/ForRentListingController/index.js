@@ -1,0 +1,2 @@
+import ForRentListingController from "./ForRentListingController"
+export default ForRentListingController

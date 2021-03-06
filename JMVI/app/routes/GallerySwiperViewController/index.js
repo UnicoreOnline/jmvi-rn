@@ -1,0 +1,2 @@
+import GallerySwiperViewController from "./GallerySwiperViewController"
+export default GallerySwiperViewController

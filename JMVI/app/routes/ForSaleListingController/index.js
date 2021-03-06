@@ -1,0 +1,2 @@
+import ForSaleListingController from "./ForSaleListingController"
+export default ForSaleListingController

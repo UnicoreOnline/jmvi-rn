@@ -1,0 +1,2 @@
+import PropertyListingController from "./PropertyListingController"
+export default PropertyListingController

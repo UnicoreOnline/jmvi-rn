@@ -1,0 +1,2 @@
+import MortgageFinancingListingController from "./MortgageFinancingListingController"
+export default MortgageFinancingListingController

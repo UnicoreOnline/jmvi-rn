@@ -1,0 +1,2 @@
+import AgentListingController from "./AgentListingController"
+export default AgentListingController

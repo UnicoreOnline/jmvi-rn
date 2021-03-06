@@ -1,0 +1,2 @@
+import AuctionListingController from "./AuctionListingController"
+export default AuctionListingController

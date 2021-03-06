@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "84366358166",
+    "firebase_url": "https://jmvi-realty.firebaseio.com",
+    "project_id": "jmvi-realty",
+    "storage_bucket": "jmvi-realty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84366358166:android:43063205b5e0414d",
+        "android_client_info": {
+          "package_name": "com.jmvirealty.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84366358166-4nsi2ke26h5d5kq5mani1u253ftop2qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jmvirealty.app",
+            "certificate_hash": "39672ced606a30835ac9ca8b60a0c57785958a25"
+          }
+        },
+        {
+          "client_id": "84366358166-v8rqu1a34uhscmh7d1jtjbo77dd767kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jmvirealty.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "84366358166-t3u8oc2i0erarm0hq756o3h0cdgv1utj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwSFDHSZWdk3iqTkPklDAoxm1_BvmUFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84366358166-t3u8oc2i0erarm0hq756o3h0cdgv1utj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84366358166-c6950dkgsi4qosaaktj0mko0m5nbefce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projects.JMVI",
+                "app_store_id": "1418679788"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

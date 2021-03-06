@@ -1,0 +1,2 @@
+import MyFavouriteListingController from "./MyFavouriteListingController"
+export default MyFavouriteListingController

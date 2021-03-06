@@ -1,0 +1,2 @@
+import AuctionDetailsController from "./AuctionDetailsController"
+export default AuctionDetailsController
